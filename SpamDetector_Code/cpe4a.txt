@@ -1,0 +1,1 @@
+Hello I am a programmer, I am the one who makes this code. I'm sure it will be good but I don't know if I'm gonna finish it on time. Hello again, This time it's gonna be the first text that will be read by the program. This program will get scanned and filtered for the Spam Detector.
